@@ -1,0 +1,40 @@
+{
+  "name": "doraemon-ai-companion",
+  "version": "1.0.0",
+  "description": "Cross-platform Doraemon AI Screen Mate & Mobile 4D Gadget Hub",
+  "main": "server/server.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test server/tests/*.test.js client/src/tests/*.test.js",
+    "test:server": "node --test server/tests/*.test.js",
+    "server": "node server/server.js",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "doraemon",
+    "ai-companion",
+    "screen-mate",
+    "framer-motion",
+    "discord"
+  ],
+  "author": "Satyam",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "framer-motion": "^13.4.6",
+    "lucide-react": "^1.49.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "screenshot-desktop": "^1.15.1",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-react": "^6.1.1",
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.1"
+  }
+}
