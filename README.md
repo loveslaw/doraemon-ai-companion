@@ -76,7 +76,7 @@ A cross-device, highly customized, and ultra-powerful AI companion inspired by *
 ### 1. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/<your-username>/doraemon-ai-companion.git
+git clone https://github.com/loveslaw/doraemon-ai-companion.git
 cd doraemon-ai-companion
 npm install
 ```
