@@ -1,5 +1,5 @@
 # 🐱🔔 Doraemon AI Companion & 4D Gadget Hub
-### *By Cherry 🍒 & Satyam*
+### *By Cherry 🍒 *
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Powered by Cherry 🍒](https://img.shields.io/badge/AI%20Co--Pilot-Cherry%20%F0%9F%8D%92-ff2e63.svg)](https://github.com)
